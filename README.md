@@ -1,2 +1,3 @@
 # codigosdeaulaprogramacaoparalela
-Códigos desenvolvidos na disciplina de programação paralela do 2º semestre/2018 da Unijuí
+Códigos desenvolvidos na disciplina de programação paralela do 2º semestre/2018 da Unijuí.
+Professor Edson L. Padoin.
